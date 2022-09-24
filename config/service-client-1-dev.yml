@@ -1,7 +1,0 @@
-user:
-  name: yangxuebin
-  password: yangxuebin
-
-host:
-  mysql: http://mysql.host
-  redis: http://redis.host
