@@ -1,7 +1,7 @@
 user:
-  nameName: yangxuebin
-  password: yangxuebin
+  nameName: yangxuebin-refresh
+  password: yangxuebin-refresh
 
 host:
-  mysql: http://mysql.host
-  redis: http://redis.host
+  mysql: http://mysql.host.refresh
+  redis: http://redis.host.refresh
